@@ -2,7 +2,7 @@
 
 Я Михаил Нистратов, разработчик на python.
 
-### Вот, что я умею
+### Проекты
 *  Python. [Репозиторий дипломной работы](https://github.com/LennyDzho/Shop)
 *  Django. [Домашние работы по курсу Django](https://github.com/LennyDzho/crud/tree/main/WorkWithDRF)
 *  FastApi, SQLalchemy, Redis. [Тестовое задание от EffectiveMobile](https://github.com/LennyDzho/EffectiveMobileTestEx)
