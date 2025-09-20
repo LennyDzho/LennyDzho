@@ -8,7 +8,7 @@
 *  FastApi, SQLalchemy, Redis. [Тестовое задание от EffectiveMobile](https://github.com/LennyDzho/EffectiveMobileTestEx)
 *  Решение хакатона DubnaTech 2025 (победитель). [Репозиторий проекта](https://github.com/LennyDzho/Box-counter/tree/master)
 
-И многое другое =D
+И много других =D
 
 ### Сертификаты от Нетологии
 
