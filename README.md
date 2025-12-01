@@ -5,7 +5,6 @@
 ### Проекты
 *  Python. [Репозиторий дипломной работы](https://github.com/LennyDzho/Shop)
 *  Django. [Домашние работы по курсу Django](https://github.com/LennyDzho/crud/tree/main/WorkWithDRF)
-*  FastApi, SQLalchemy, Redis. [Тестовое задание от EffectiveMobile](https://github.com/LennyDzho/EffectiveMobileTestEx)
 *  Решение хакатона DubnaTech 2025 (победитель). [Репозиторий проекта](https://github.com/LennyDzho/Box-counter/tree/master)
 *  Решение хакатона i.moscow задача ИИ-сервис для выявления компьютерных томографий органов грудной клетки с «нормой» (API и интерфейс в разработке). [Репозиторий проекта](https://github.com/LennyDzho/ct-screening-learning)
 
